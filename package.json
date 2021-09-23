@@ -1,0 +1,21 @@
+{
+  "name": "stripepaymentgatewayapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "cryptojs": "^2.5.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.6",
+    "nodemon": "^2.0.12",
+    "react-stripe-checkout": "^2.6.3",
+    "stripe": "^8.176.0"
+  }
+}
